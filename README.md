@@ -85,7 +85,7 @@
 
 ## 📥 下载与安装
 
-进入本项目 [**Releases**](https://github.com/your-username/ZiranFan/releases) 页面，下载最新的安装包镜像：
+进入本项目 [**Releases**](https://github.com/kinson08/ZiranFan/releases) 页面，下载最新的安装包镜像：
 
 - **macOS 安装包**：`ZiranFan-Installer.dmg` (支持 macOS 12+，兼容 M1/M2/M3/M4 与 Intel 芯片)
 
@@ -166,7 +166,7 @@
 - ☕️ **爱发电**：[点击前往爱发电支持作者](https://afdian.net)
 - 👤 **作者**：kinson5
 - 📧 **联系邮箱**：[hi1000@139.com](mailto:hi1000@139.com)
-- 💡 **意见与建议**：欢迎在 [GitHub Issues](https://github.com/your-username/ZiranFan/issues) 中提交您的宝贵反馈与优化设想！
+- 💡 **意见与建议**：欢迎在 [GitHub Issues](https://github.com/kinson08/ZiranFan/issues) 中提交您的宝贵反馈与优化设想！
 
 ---
 
